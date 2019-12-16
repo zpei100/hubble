@@ -1,2 +1,9 @@
-comedy christmas hbo,different interpretation size. T1: 2, C (ignoring stopword entities): 0,N/A
-this is a test message
+Query, Query Understanding Diff, Score Diff, Query Action Diff
+telugu,,
+horror,,
+hindi,,
+anime,,
+telugu movies on amazon prime,slotsDifferences=Slot difference at position 3 for the 0th interpretation.slotsDifferences=Slot difference at position 3 for the 1th interpretation.,
+movies,,
+comedy,,
+christmas movies prime,,
